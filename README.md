@@ -21,8 +21,15 @@
 
   #                Task
 
- **1**  -> Take 2 numbers as input and print the largest number.
- **2** -> Take two numbers and print the sum of both.
- **3**  -> Take a number as input and print the multiplication table for it.
- **4**  -> Input a year and find whether it is a leap year or not.
- **5**  -> Read theory part.
+# Java Exercises
+
+1. **Largest Number**: Take 2 numbers as input and print the largest number.
+
+2. **Sum of Numbers**: Take two numbers and print the sum of both.
+
+3. **Multiplication Table**: Take a number as input and print the multiplication table for it.
+
+4. **Leap Year Check**: Input a year and find whether it is a leap year or not.
+
+5. **Read Theory Part**.
+
