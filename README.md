@@ -1,27 +1,27 @@
  #                                                                    Introduction To Programming
 
  # JAVA   
- **I** [intro](https://youtu.be/lhELGQAV4gg?si=hQ6uz1Tm6xmtpw0-) 
- **II** [flow of program](https://youtu.be/TAtrPoaJ7gc?si=fmCf9nfGoJfOyBiZ)
- **III** [first java program](https://youtu.be/TAtrPoaJ7gc?si=8cAazLSKuq9BNlyb)
+ **1** [intro](https://youtu.be/lhELGQAV4gg?si=hQ6uz1Tm6xmtpw0-) 
+ **2** [flow of program](https://youtu.be/TAtrPoaJ7gc?si=fmCf9nfGoJfOyBiZ)
+ **3** [first java program](https://youtu.be/TAtrPoaJ7gc?si=8cAazLSKuq9BNlyb)
 
  # C++ 
- **I** [intro](https://youtu.be/y3OOaXrFy-Q?si=CBPdo_1lo3xF4H4r)
- **II** [flow chart](https://youtu.be/H_9MSvTL74g?si=30NFpt1lkl3dtqyf )
- **II** [first program](https://youtu.be/2Gexv2eld4Y?si=FE_zhMWU0ueoI8Yc)
+ **1** [intro](https://youtu.be/y3OOaXrFy-Q?si=CBPdo_1lo3xF4H4r)
+ **2** [flow chart](https://youtu.be/H_9MSvTL74g?si=30NFpt1lkl3dtqyf )
+ **3** [first program](https://youtu.be/2Gexv2eld4Y?si=FE_zhMWU0ueoI8Yc)
 
  #  Python 
- **I** [intro](https://www.youtube.com/live/a8KNpJYToKE?si=OcS2iIjbeecOk8eo )
- **II** [watch till 1 : 49](https://youtu.be/fqF9M92jzUo?si=fpv8tpFngDFj7Ryj)
+ **1** [intro](https://www.youtube.com/live/a8KNpJYToKE?si=OcS2iIjbeecOk8eo )
+ **2** [watch till 1 : 49](https://youtu.be/fqF9M92jzUo?si=fpv8tpFngDFj7Ryj)
 
  # Javascript
- **a** [intro](https://youtu.be/ajdRvxDWH4w?si=xT65txgExmLlEFbA)
+ **1** [intro](https://youtu.be/ajdRvxDWH4w?si=xT65txgExmLlEFbA)
 
 # Theory Compulsory
-  **I**  [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
-  **II**  [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
-  **III**  [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
-  **III**  [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
+  **1**  [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
+  **2**  [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
+  **3**  [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
+  **4**  [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
 
 
 # Exercises
