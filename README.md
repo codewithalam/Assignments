@@ -1,5 +1,5 @@
 # DSA + Interview preparation bootcamp
 
-**.** [UpskillMafia - mern / ui-ux] (https://upskillmafia.com/mern/dashboard)
+**.** [UpskillMafia](https://upskillmafia.com/mern/dashboard)
 
-**.** [Linked In] (www.linkedin.com/in/codewithalam)
+**.** [LinkedIn](www.linkedin.com/in/codewithalam)
