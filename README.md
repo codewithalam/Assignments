@@ -14,14 +14,13 @@
  Javascript ->  [intro](https://youtu.be/ajdRvxDWH4w?si=xT65txgExmLlEFbA)
 
 # Theory Compulsory - > 
-** [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
-** [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
-** [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
-** [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
+1. **->**: [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
+2. **->**: [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
+3. **->**: [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
+4. **->**: [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
 
-  #                Task
 
-# Java Exercises
+# Exercises
 
 1. **Largest Number**: Take 2 numbers as input and print the largest number.
 
