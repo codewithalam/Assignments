@@ -14,10 +14,10 @@
  **.** Javascript -> **1** [intro](https://youtu.be/ajdRvxDWH4w?si=xT65txgExmLlEFbA)
 
 # Theory Compulsory - > 
-1  **->** : [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
-2  **->** : [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
-3  **->** : [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
-4  **->** : [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
+1  **->**  [c++](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=header_search)
+2  **->**  [java](https://www.geeksforgeeks.org/introduction-to-java/?ref=header_search)
+3  **->**  [python](https://www.geeksforgeeks.org/introduction-to-python/?ref=header_search)
+4  **->**  [javascript](https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/?ref=header_search)
 
 
 # Exercises
