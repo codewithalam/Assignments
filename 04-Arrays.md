@@ -20,3 +20,22 @@
 **2.** [linear-search](https://youtu.be/gsopFuEwQhg?si=MrnEuo9YUt_hX7iH)
 **3.** [2D-Array](https://youtu.be/SmJNeJuLmVo?si=2ayfyqUhY2wi44LP)
 
+# Imp-Theory
+## [What is Array?](https://www.geeksforgeeks.org/what-is-array/?ref=roadmap)
+## [Search, Insert, and Delete in an Unsorted Array | Array Operations](https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/?ref=roadmap)
+## [Applications, Advantages and Disadvantages of Array](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-array-data-structure/?ref=roadmap)
+
+# Exercise
+## Easy
+## [Two sum](https://leetcode.com/problems/two-sum/)
+## [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/)
+## [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+## [No. of good pair](https://leetcode.com/problems/number-of-good-pairs/)
+
+## Medium
+## [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/)
+## [Sort colors](https://leetcode.com/problems/sort-colors/)
+## [Flipping an image](https://leetcode.com/problems/flipping-an-image/)
+## [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+## [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+## [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
