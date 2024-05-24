@@ -39,3 +39,7 @@
 ## [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 ## [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 ## [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+
+## Hard
+## [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+## [First Missing positive](https://leetcode.com/problems/first-missing-positive/)
