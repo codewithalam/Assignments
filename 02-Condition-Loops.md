@@ -15,12 +15,12 @@
 
 ## Javascript
 **1.** [datatype](https://youtu.be/ajdRvxDWH4w?si=hBcFm1A0NepjblnF)
-**2.** [operator-condition] (https://youtu.be/Zg4-uSjxosE?si=KXpoviTOTFnMdZVF)
+**2.** [operator-condition](https://youtu.be/Zg4-uSjxosE?si=KXpoviTOTFnMdZVF)
 **3.** [loops](https://youtu.be/UmRtFFSDSFo?si=KE1gXxWlVebkrnj4)
 
 # Exercise
 1. **Area** Area Of Circle 
-2.   **Area** Area Of Triangle
+2. **Area** Area Of Triangle
 3. **Average** Calculate Average Marks
 4. **Factorial Program**  Write a program to find the factorial of a number
 5. **Sum Of N**  Write a program to calculate the sum of the first N natural numbers.
