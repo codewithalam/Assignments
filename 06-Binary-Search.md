@@ -19,7 +19,7 @@
 **1** [1D-binarySearch](https://youtu.be/GnZ9ppr_zaI?si=7F-XmCt_GaI2A-6X)
 **2** [2D-binarySearch](https://youtu.be/Ber2pi2C0j0?si=6IobTJeDzKsa-vjq)
 
-**Read it** [Binary Search Algorithm – Iterative and Recursive Implementation](https://www.geeksforgeeks.org/binary-search/?ref=header_search)
+## **Read it** [Binary Search Algorithm – Iterative and Recursive Implementation](https://www.geeksforgeeks.org/binary-search/?ref=header_search)
 
 # Exercise
 **Solve** it on code editor then submit on any platform.
