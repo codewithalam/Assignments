@@ -24,11 +24,11 @@
 # Exercise
 **Solve** it on code editor then submit on any platform.
 ## Easy
-**.** [Sqaure Root](https://leetcode.com/problems/sqrtx/)
-**.** [Two Sum II-input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-**.** [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-**.** [Peak Index in a Montain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-**.** [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Sqaure Root](https://leetcode.com/problems/sqrtx/)
+- [Two Sum II-input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- [Peak Index in a Montain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ## Medium
 **1** [Find First and Last Postion of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
