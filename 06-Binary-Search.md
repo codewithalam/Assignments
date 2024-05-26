@@ -19,17 +19,16 @@
 **1** [1D-binarySearch](https://youtu.be/GnZ9ppr_zaI?si=7F-XmCt_GaI2A-6X)
 **2** [2D-binarySearch](https://youtu.be/Ber2pi2C0j0?si=6IobTJeDzKsa-vjq)
 
-# Theory
-## [Binary Search Algorithm – Iterative and Recursive Implementation](https://www.geeksforgeeks.org/binary-search/?ref=header_search)
+**Read it** [Binary Search Algorithm – Iterative and Recursive Implementation](https://www.geeksforgeeks.org/binary-search/?ref=header_search)
 
 # Exercise
 **Solve** it on code editor then submit on any platform.
 ## Easy
-**1** [Sqaure Root](https://leetcode.com/problems/sqrtx/)
-**2** [Two Sum II-input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-**3** [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-**4** [Peak Index in a Montain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-**5** [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+**.** [Sqaure Root](https://leetcode.com/problems/sqrtx/)
+**.** [Two Sum II-input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+**.** [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+**.** [Peak Index in a Montain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+**.** [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ## Medium
 **1** [Find First and Last Postion of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
