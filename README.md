@@ -1,5 +1,5 @@
 # DSA + Interview preparation bootcamp
-- **In** This Course Will Learn About Basic DSA.
+- **In** This Course You Will Learn About Basic DSA.
 - **After** That We Will Discusses Assignment In The Campus.
 - **Try** to Analsys Its Time And Space Complexity.
 - **And** Then Talk About Logic And Diffrent Approach To Get Its End.
