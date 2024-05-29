@@ -1,9 +1,9 @@
 # DSA + Interview preparation bootcamp
 - **In** This Course You Will Learn About Basic DSA.
+- **Read** The Problem Carefully
+- **And** Then Talk About Logic And Diffrent Approach To Get Its End.
 - **After** That We Will Discusses Assignment In The Campus.
 - **Try** to Analsys Its Time And Space Complexity.
-- **And** Then Talk About Logic And Diffrent Approach To Get Its End.
-- **To** Apni Kursi Ki Paiti Tight Kar Lo.
 
 ## How To Approach Problem
 - **Build The Logic** Gate With Given Test Case.
