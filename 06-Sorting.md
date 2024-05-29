@@ -26,3 +26,24 @@
 - **3** [Insertion Sort Tutorial](https://www.geeksforgeeks.org/insertion-sort/?ref=roadmap)
 
 # Exercise
+## Easy
+- [Majority Element](https://leetcode.com/problems/majority-element/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Sort Array By ParityII](https://leetcode.com/problems/sort-array-by-parity-ii/)
+
+## Medium
+- [Sort Array BY Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [4Sum](https://leetcode.com/problems/4sum/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Merge Interval](https://leetcode.com/problems/merge-intervals/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find All Duplicate In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+## Hard
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
