@@ -1,11 +1,11 @@
 # DSA + Interview preparation bootcamp
 - **In** This Course You Will Learn About Basic DSA.
-- **Read** The Problem Carefully
 - **And** Then Talk About Logic And Diffrent Approach To Get Its End.
 - **After** That We Will Discusses Assignment In The Campus.
 - **Try** to Analsys Its Time And Space Complexity.
 
 ## How To Approach Problem
+- **Read** The Problem Carefully
 - **Build The Logic** Gate With Given Test Case.
 - **Unable To Build Logic** Gate Means You Didn't Get the Problem Statement.
 - **Then Break** the problem into 2 or 3 Part Then Build Logic.
