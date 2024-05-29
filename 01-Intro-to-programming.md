@@ -2,7 +2,7 @@
 
  # JAVA   
  **1** [intro](https://youtu.be/wn49bJOYAZM?si=u6dsatsnr9sN6xCC) 
- **2** [flow of program](https://youtu.be/TAtrPoaJ7gc?si=fmCf9nfGoJfOyBiZ)
+ **2** [flow of program](https://youtu.be/lhELGQAV4gg?si=At2W7IWFC2qsXQeI)
  **3** [java artitecture](https://youtu.be/4EP8YzcN0hQ?si=9g9TXOyxb3PPrDHF)
  **4** [first java program](https://youtu.be/TAtrPoaJ7gc?si=8cAazLSKuq9BNlyb)
 
