@@ -1,19 +1,19 @@
-# Condition and Loops Video Lectures
-## Java
+# Condition and Loops
+## Java Video Lectures
 **1.** [condition-loops](https://youtu.be/ldYLYRNaucM?si=PjdRJI4mSgh9ETc4)
 **2.** [switch](https://youtu.be/ldYLYRNaucM?si=PjdRJI4mSgh9ETc4)
 
-## C++ 
+## C++ Video Lectures
 **1.** [overflow-calculation](https://youtu.be/9S-b52CSCbQ?si=c4awgNecA0yOHcgK)
 **2.** [condition-loops](https://youtu.be/AxB78suyqr8?si=wgx3hWdAM3PKleBo)
 **3.** [operator](https://youtu.be/HI0mNthclGE?si=7YxcVX8KC45vgC2J)
 
-## Python
+## Python Video Lectures
 **1.** [condition](https://youtu.be/ceiuLR2ysas?si=sdangQP6eGajelsF)
 **2.** [loops](https://youtu.be/S73thl0AyFU?si=LDZn8pivse5ffDdJ)
 **3.** [operators](https://youtu.be/V6N_PUYG8LM?si=_frq5O1kG5C6sKAw)
 
-## Javascript
+## Javascript Video Lectures
 **1.** [datatype](https://youtu.be/ajdRvxDWH4w?si=hBcFm1A0NepjblnF)
 **2.** [operator-condition](https://youtu.be/Zg4-uSjxosE?si=KXpoviTOTFnMdZVF)
 **3.** [loops](https://youtu.be/UmRtFFSDSFo?si=KE1gXxWlVebkrnj4)
