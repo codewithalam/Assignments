@@ -1,4 +1,4 @@
-# Condition and Loops
+# Condition and Loops Video Lectures
 ## Java
 **1.** [condition-loops](https://youtu.be/ldYLYRNaucM?si=PjdRJI4mSgh9ETc4)
 **2.** [switch](https://youtu.be/ldYLYRNaucM?si=PjdRJI4mSgh9ETc4)
