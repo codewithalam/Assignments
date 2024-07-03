@@ -27,14 +27,11 @@
 
 # Exercise
 ## Easy
-- [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-- [Sort Array By ParityII](https://leetcode.com/problems/sort-array-by-parity-ii/)
 
 ## Medium
 - [Sort Array BY Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
@@ -44,6 +41,7 @@
 - [Merge Interval](https://leetcode.com/problems/merge-intervals/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find All Duplicate In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
 ## Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
