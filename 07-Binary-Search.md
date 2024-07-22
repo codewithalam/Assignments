@@ -1,6 +1,6 @@
 # Concept video -> Pattern-wise
 
-## Watch all the video given below and solve on your own code editor then solve interview problems
+## Watch these videos and solve
 
 - [Binary Search](https://youtu.be/QNGL_t_o_QA?si=XYF6nZ_LfKbGJcvM)
 - [Binary search on reverse sorted array](https://youtu.be/YbkELwnGRdo?si=HEN-WArlct2A-1s9)
