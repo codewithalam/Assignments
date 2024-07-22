@@ -1,6 +1,6 @@
 # Concept video -> Pattern-wise
 
-**1** - [Binary Search](https://youtu.be/QNGL_t_o_QA?si=XYF6nZ_LfKbGJcvM)
+**-**  [Binary Search](https://youtu.be/QNGL_t_o_QA?si=XYF6nZ_LfKbGJcvM)
 **2** [Binary search on reverse sorted array](https://youtu.be/YbkELwnGRdo?si=HEN-WArlct2A-1s9)
 **3** [Order not known search](https://youtu.be/gY2b-Q6wDEM?si=K1Eo9mgsRo9-yXOC)
 **4** [First and last occurrence](https://youtu.be/zr_AoTxzn0Y?si=VU9hovNMv5fPkd5C)
