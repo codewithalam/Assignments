@@ -1,4 +1,5 @@
 # Sorting
+- [Bubble , Selection And Insertion Sort](https://youtu.be/HGk_ypEuS24?si=wAXsO3Ov4WeroYQf)
 ## Java
 **1** [Bubble Sort](https://youtu.be/F5MZyqRp_IM?si=YIPa5NMkV__9lIIi)
 **2** [Selection Sort](https://youtu.be/Nd4SCCIHFWk?si=Jeaplggacl5kSBUD)
