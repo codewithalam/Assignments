@@ -1,12 +1,16 @@
 #                                              Strings
 ## [Java Video](https://youtu.be/zL1DPZ0Ovlo?si=F9ysREZaTelL8wwn)
+## [Java String Method](https://youtu.be/sCdgYAcQD5o?si=yOqoH-J4hfGw3lte)
 ## [C++ Video](https://youtu.be/Wdjr6uoZ0e0?si=v039J4eiVgbFmwFf)
+## [C++ Strings Method](https://youtu.be/lfT5qAAZyfU?si=BUhgdtTvAkfktenS)
 ## [JavaScript Video](https://youtu.be/EREfTIcnPrc?si=FQvsqN2n2seLEiI6)
+## [JavaScript String Method](https://youtu.be/q4Fne_Kwkxs?si=6ZCmkh9v7lAska_1)
 ## [Python Video](https://youtu.be/TQMvBTKn2p0?si=1TYdYhJRlHIURagg)
+## [Python Strings Method](https://youtu.be/0INvoK_T0cE?si=SEXZ8_Bzx9yqvc_t)
 
 # Exercise
 - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
-- [ ToLower](https://leetcode.com/problems/to-lower-case/description/)
+- [ToLower](https://leetcode.com/problems/to-lower-case/description/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
