@@ -14,9 +14,9 @@
 
 # Exercise
  1. **- [Word Frequency Counter](https://www.geeksforgeeks.org/calculate-the-frequency-of-each-word-in-the-given-string/)**
-2. **First Non-Repeated Character Problem:** Given a string, find the first character that does not repeat.
-a. **Concepts Used:** HashMap to count the occurrences of each character, then iterate to find the first one with a count of 1.
-b. **Example:**
-c. **String input = "swiss";**
-d. **First non-repeated character: w**
+ **- [First Non-Repeated Character Problem:** Given a string, find the first character that does not repeat.]**
+ **Concepts Used:** HashMap to count the occurrences of each character, then iterate to find the first one with a count of 1.
+ **Example:**
+ **String input = "swiss";**
+ **First non-repeated character: w**
 
