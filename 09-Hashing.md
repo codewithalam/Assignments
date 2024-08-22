@@ -13,15 +13,14 @@
 - [Hash Set and Map](https://youtu.be/APAbRkrqDVI?si=IZmqRKxg3m0fDDug)
 
 # Exercise
- 1. **- [Word Frequency Counter](https://www.geeksforgeeks.org/calculate-the-frequency-of-each-word-in-the-given-string/)**
-2 **- [First Non-Repeated Character Problem:] Given a string, find the first character that does not repeat.**
- **Concepts Used:** HashMap to count the occurrences of each character, then iterate to find the first one with a count of 1.
- **Example:**
- **String input = "swiss";**
- **First non-repeated character: w**
-3. **- [Two Sum]([https://leetcode.com/problems/two-sum/description/](https://www.geeksforgeeks.org/2sum/))**
-4. **- [Check for Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)**
-5. **- [Group Anagram](https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/)**
-6. **- [Find Duplicate Number](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)**
-7. **- [Find The Intersection](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)**
+- [Word Frequency Counter](https://www.geeksforgeeks.org/calculate-the-frequency-of-each-word-in-the-given-string/)
+- [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+- [Two Sum](https://leetcode.com/problems/two-sum/description/)**
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [Group Anagram](https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/)**
+- [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find The Intersection](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [Integer To Roman](https://leetcode.com/problems/integer-to-roman/description/)
+- [Permutation In String](https://leetcode.com/problems/permutation-in-string/description/)
 
