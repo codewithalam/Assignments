@@ -1,8 +1,8 @@
 # Recursio And Backtracking
+**Recursion-Backtracking** is an algorithm part that is language-independent.
 
 ## Theory part
 - [Recursio-backtracking must read](https://www.geeksforgeeks.org/complete-guide-to-recursion-and-backtracking/)
-**Recursion-Backtracking** is an algorithm part that is language-independent.
 
 ## Video part
 - [Intro-to-recursion](https://youtu.be/M2uO2nMT0Bk?si=iL0qyXxDEf2RpUBV)
