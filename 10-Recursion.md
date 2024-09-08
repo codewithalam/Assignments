@@ -3,6 +3,8 @@
 ## Theory part
 - [Recursio-backtracking must read](https://www.geeksforgeeks.org/complete-guide-to-recursion-and-backtracking/)
 **Recursion-Backtracking** is an algorithm part that is language-independent.
+
+## Video part
 - [Intro-to-recursion](https://youtu.be/M2uO2nMT0Bk?si=iL0qyXxDEf2RpUBV)
 - [Level-1-problems](https://youtu.be/JxILxTwHukM?si=T4lBzKg2pwCNFNSM)
 - [Arrays-problems](https://youtu.be/sTdiMLom00U?si=3unPpgJNKqCtqJko)
@@ -18,4 +20,4 @@
 
 
 ## Exercise 
-**Do** all the problem discuss in the video and article.
+**Do** all the problems discussed in the video and article.
